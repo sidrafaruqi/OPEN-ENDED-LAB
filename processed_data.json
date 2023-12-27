@@ -1,241 +1,67 @@
 {
-	"dt_txt":	"2023-12-26 21:00:00",
-	"temp":	291.24,
-	"temp_min":	291.24,
-	"temp_max":	294.22,
-	"humidity":	82
-}{
-	"dt_txt":	"2023-12-27 00:00:00",
-	"temp":	292.06,
-	"temp_min":	292.06,
-	"temp_max":	293.71,
-	"humidity":	76
-}{
-	"dt_txt":	"2023-12-27 03:00:00",
-	"temp":	293.57,
-	"temp_min":	293.57,
-	"temp_max":	294.74,
-	"humidity":	51
-}{
-	"dt_txt":	"2023-12-27 06:00:00",
-	"temp":	298.19,
-	"temp_min":	298.19,
-	"temp_max":	298.19,
-	"humidity":	27
-}{
-	"dt_txt":	"2023-12-27 09:00:00",
-	"temp":	300.89,
-	"temp_min":	300.89,
-	"temp_max":	300.89,
-	"humidity":	26
-}{
-	"dt_txt":	"2023-12-27 12:00:00",
-	"temp":	300.18,
-	"temp_min":	300.18,
-	"temp_max":	300.18,
-	"humidity":	28
-}{
-	"dt_txt":	"2023-12-27 15:00:00",
-	"temp":	297.47,
-	"temp_min":	297.47,
-	"temp_max":	297.47,
-	"humidity":	30
-}{
-	"dt_txt":	"2023-12-27 18:00:00",
-	"temp":	296.38,
-	"temp_min":	296.38,
-	"temp_max":	296.38,
-	"humidity":	30
-}{
 	"dt_txt":	"2023-12-27 21:00:00",
-	"temp":	295.48,
-	"temp_min":	295.48,
-	"temp_max":	295.48,
-	"humidity":	32
+	"temp":	290.24,
+	"temp_min":	290.24,
+	"temp_max":	293.67,
+	"humidity":	36
 }{
 	"dt_txt":	"2023-12-28 00:00:00",
-	"temp":	294.6,
-	"temp_min":	294.6,
-	"temp_max":	294.6,
+	"temp":	291.06,
+	"temp_min":	291.06,
+	"temp_max":	292.69,
 	"humidity":	33
 }{
 	"dt_txt":	"2023-12-28 03:00:00",
-	"temp":	294.45,
-	"temp_min":	294.45,
-	"temp_max":	294.45,
-	"humidity":	32
+	"temp":	291.94,
+	"temp_min":	291.94,
+	"temp_max":	292.79,
+	"humidity":	30
 }{
 	"dt_txt":	"2023-12-28 06:00:00",
-	"temp":	298.71,
-	"temp_min":	298.71,
-	"temp_max":	298.71,
-	"humidity":	28
+	"temp":	299.34,
+	"temp_min":	299.34,
+	"temp_max":	299.34,
+	"humidity":	17
 }{
 	"dt_txt":	"2023-12-28 09:00:00",
-	"temp":	300.95,
-	"temp_min":	300.95,
-	"temp_max":	300.95,
-	"humidity":	26
+	"temp":	302.07,
+	"temp_min":	302.07,
+	"temp_max":	302.07,
+	"humidity":	13
 }{
 	"dt_txt":	"2023-12-28 12:00:00",
-	"temp":	299.72,
-	"temp_min":	299.72,
-	"temp_max":	299.72,
-	"humidity":	31
+	"temp":	300.84,
+	"temp_min":	300.84,
+	"temp_max":	300.84,
+	"humidity":	15
 }{
 	"dt_txt":	"2023-12-28 15:00:00",
-	"temp":	296.23,
-	"temp_min":	296.23,
-	"temp_max":	296.23,
-	"humidity":	37
+	"temp":	295.33,
+	"temp_min":	295.33,
+	"temp_max":	295.33,
+	"humidity":	24
 }{
 	"dt_txt":	"2023-12-28 18:00:00",
-	"temp":	296.18,
-	"temp_min":	296.18,
-	"temp_max":	296.18,
-	"humidity":	30
-}{
-	"dt_txt":	"2023-12-28 21:00:00",
-	"temp":	295.27,
-	"temp_min":	295.27,
-	"temp_max":	295.27,
-	"humidity":	30
-}{
-	"dt_txt":	"2023-12-29 00:00:00",
-	"temp":	294.69,
-	"temp_min":	294.69,
-	"temp_max":	294.69,
-	"humidity":	31
-}{
-	"dt_txt":	"2023-12-29 03:00:00",
-	"temp":	294.51,
-	"temp_min":	294.51,
-	"temp_max":	294.51,
-	"humidity":	31
-}{
-	"dt_txt":	"2023-12-29 06:00:00",
-	"temp":	298.43,
-	"temp_min":	298.43,
-	"temp_max":	298.43,
-	"humidity":	27
-}{
-	"dt_txt":	"2023-12-29 09:00:00",
-	"temp":	300.54,
-	"temp_min":	300.54,
-	"temp_max":	300.54,
-	"humidity":	27
-}{
-	"dt_txt":	"2023-12-29 12:00:00",
-	"temp":	299.38,
-	"temp_min":	299.38,
-	"temp_max":	299.38,
-	"humidity":	31
-}{
-	"dt_txt":	"2023-12-29 15:00:00",
-	"temp":	296.25,
-	"temp_min":	296.25,
-	"temp_max":	296.25,
-	"humidity":	39
-}{
-	"dt_txt":	"2023-12-29 18:00:00",
-	"temp":	296.09,
-	"temp_min":	296.09,
-	"temp_max":	296.09,
-	"humidity":	31
-}{
-	"dt_txt":	"2023-12-29 21:00:00",
-	"temp":	295.19,
-	"temp_min":	295.19,
-	"temp_max":	295.19,
-	"humidity":	30
-}{
-	"dt_txt":	"2023-12-30 00:00:00",
-	"temp":	294.42,
-	"temp_min":	294.42,
-	"temp_max":	294.42,
-	"humidity":	32
-}{
-	"dt_txt":	"2023-12-30 03:00:00",
-	"temp":	294.33,
-	"temp_min":	294.33,
-	"temp_max":	294.33,
-	"humidity":	31
-}{
-	"dt_txt":	"2023-12-30 06:00:00",
-	"temp":	297.99,
-	"temp_min":	297.99,
-	"temp_max":	297.99,
-	"humidity":	28
-}{
-	"dt_txt":	"2023-12-30 09:00:00",
-	"temp":	299.51,
-	"temp_min":	299.51,
-	"temp_max":	299.51,
+	"temp":	293.98,
+	"temp_min":	293.98,
+	"temp_max":	293.98,
 	"humidity":	23
 }{
-	"dt_txt":	"2023-12-30 12:00:00",
-	"temp":	298.56,
-	"temp_min":	298.56,
-	"temp_max":	298.56,
-	"humidity":	37
+	"dt_txt":	"2023-12-28 21:00:00",
+	"temp":	293.65,
+	"temp_min":	293.65,
+	"temp_max":	293.65,
+	"humidity":	23
 }{
-	"dt_txt":	"2023-12-30 15:00:00",
-	"temp":	296.09,
-	"temp_min":	296.09,
-	"temp_max":	296.09,
-	"humidity":	52
+	"dt_txt":	"2023-12-27",
+	"average_temp":	290.24,
+	"average_humidity":	36,
+	"lowest_temp":	290,
+	"highest_temp":	516005088
 }{
-	"dt_txt":	"2023-12-30 18:00:00",
-	"temp":	295.38,
-	"temp_min":	295.38,
-	"temp_max":	295.38,
-	"humidity":	49
-}{
-	"dt_txt":	"2023-12-30 21:00:00",
-	"temp":	294.83,
-	"temp_min":	294.83,
-	"temp_max":	294.83,
-	"humidity":	41
-}{
-	"dt_txt":	"2023-12-31 00:00:00",
-	"temp":	294.58,
-	"temp_min":	294.58,
-	"temp_max":	294.58,
-	"humidity":	33
-}{
-	"dt_txt":	"2023-12-31 03:00:00",
-	"temp":	294.55,
-	"temp_min":	294.55,
-	"temp_max":	294.55,
-	"humidity":	31
-}{
-	"dt_txt":	"2023-12-31 06:00:00",
-	"temp":	298.32,
-	"temp_min":	298.32,
-	"temp_max":	298.32,
-	"humidity":	28
-}{
-	"dt_txt":	"2023-12-31 09:00:00",
-	"temp":	300.32,
-	"temp_min":	300.32,
-	"temp_max":	300.32,
-	"humidity":	28
-}{
-	"dt_txt":	"2023-12-31 12:00:00",
-	"temp":	299.23,
-	"temp_min":	299.23,
-	"temp_max":	299.23,
-	"humidity":	33
-}{
-	"dt_txt":	"2023-12-31 15:00:00",
-	"temp":	296.61,
-	"temp_min":	296.61,
-	"temp_max":	296.61,
-	"humidity":	34
-}{
-	"dt_txt":	"2023-12-31 18:00:00",
-	"temp":	295.82,
-	"temp_min":	295.82,
-	"temp_max":	295.82,
-	"humidity":	31
+	"dt_txt":	"2023-12-28",
+	"average_temp":	296.02625,
+	"average_humidity":	22.25,
+	"lowest_temp":	291,
+	"highest_temp":	516005088
 }
