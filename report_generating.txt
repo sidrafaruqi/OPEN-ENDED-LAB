@@ -1,0 +1,32 @@
+        WEATHER REPORT           
+
+DATE: 2023-12-30
+Average Temp: 295.83
+Lowest Temp: -2053006112
+Highest Temp: 299
+Average Humidity: 34.75
+
+DATE: 2023-12-30
+Average Temp: 295.83
+Lowest Temp: 292
+Highest Temp: 985767136
+Average Humidity: 34.50
+
+DATE: 2023-12-30
+Average Temp: 295.83
+Lowest Temp: 292
+Highest Temp: 2141297888
+Average Humidity: 34.50
+
+DATE: 2023-12-30
+Average Temp: 295.47
+Lowest Temp: 292
+Highest Temp: 1681367880
+Average Humidity: 34.38
+
+DATE: 2023-12-30
+Average Temp: 295.32
+Lowest Temp: 292
+Highest Temp: 1640145640
+Average Humidity: 27.50
+
