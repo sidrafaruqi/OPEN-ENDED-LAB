@@ -178,7 +178,6 @@ int processed_data(const char* dt_txt, cJSON* temp, cJSON* temp_min, cJSON* temp
     cJSON_AddNumberToObject(modified, "temp_min", cJSON_GetNumberValue(temp_min));
     cJSON_AddNumberToObject(modified, "temp_max", cJSON_GetNumberValue(temp_max));
     cJSON_AddNumberToObject(modified, "humidity", cJSON_GetNumberValue(humidity));
-
     
     char* modified_str = cJSON_Print(modified);
     
@@ -199,10 +198,6 @@ int calculated_data(const char* dt_txt, double *average_temp, int *lowest_temp, 
     cJSON_AddNumberToObject(calculated, "lowest_temp", (double)(*lowest_temp));
     cJSON_AddNumberToObject(calculated, "highest_temp", (double)(*highest_temp));
 
-
-
-
-    
     char* calculated_str = cJSON_Print(calculated);
     
     processed_file_opening(calculated_str);
