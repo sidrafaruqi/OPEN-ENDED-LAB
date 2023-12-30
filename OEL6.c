@@ -82,6 +82,9 @@ int retrieve_values() {
     int cyear = local_time->tm_year + 1900;
     int cmonth = local_time->tm_mon + 1;
     int cday = local_time->tm_mday;
+    
+    printf("Current Date: %04d-%02d-%02d\n", cyear, cmonth, cday);
+    printf("Tomorrow's Date: %04d-%02d-%02d\n", cyear, cmonth, cday + 1);
 
     cJSON *cnt = cJSON_GetObjectItemCaseSensitive(json, "cnt"); //cnt tells the length of "list" key from api_response.json file
     cJSON *list = cJSON_GetObjectItemCaseSensitive(json, "list");//all the data related to weather is stored in "list"
@@ -125,7 +128,7 @@ int retrieve_values() {
 				    processed_data(dt_txt->valuestring, temp, temp_min, temp_max, humidity); 
 				}
 				 
-				else if (cyear == year && cmonth == month && cday + 1 == day) {
+				else if (cyear == year && cmonth == month && (cday + 1) == day) {
 				    total_day2++;
 				    total_value2 = total_value2 + temp->valuedouble; 
 				    total_humidity2 = total_humidity2 + humidity->valuedouble;
@@ -136,6 +139,7 @@ int retrieve_values() {
 				    if (*highest_temp2 < cJSON_GetNumberValue(temp_max)) {
 				        *highest_temp2 = cJSON_GetNumberValue(temp_max);
 				    }	
+				    
 				    processed_data(dt_txt->valuestring, temp, temp_min, temp_max, humidity); 
 				}
 		                
