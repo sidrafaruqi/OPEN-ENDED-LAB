@@ -34,7 +34,7 @@ int retrieve_values() {
         return 1;
     }
 
-    int file_content = fread(content, 1, length, fp); // Reading file content
+    size_t file_content = fread(content, 1, length, fp); // Reading file content
     if (file_content != length) {
         free(content); // Free allocated memory
         fclose(fp);
@@ -222,7 +222,7 @@ int processed_file_opening(const char* newdata) {
         return 1;
     }
 
-    int len = fread(data, 1, length, fp1);//Reading file content
+    size_t len = fread(data, 1, length, fp1);//Reading file content
     if (len != length) {
         free(data); // Free allocated memory
         fclose(fp1);
@@ -379,7 +379,7 @@ int main() {
 
     curl = curl_easy_init();
     if (curl) {
-        curl_easy_setopt(curl, CURLOPT_URL, "https://api.openweathermap.org/data/2.5/forecast?lat=24.8606&lon=67.0104&appid=064c667df3a9de95ee0ebeb1bc8dc23f");
+        curl_easy_setopt(curl, CURLOPT_URL, "https://api.openweathermap.org/data/2.5/forecast?lat=24.8606&lon=67.0104&appid=064c667df3a9de95ee0ebeb1bc8dc23f&units=metric");
 
         curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, write_callback);
 
