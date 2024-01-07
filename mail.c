@@ -5,7 +5,7 @@
 
 int main(void) {
 
-  sendEmail(DEFAULT_TO_EMAIL, "Test Subject", "This is the body of the email.", "/home/sidra/Desktop/output.txt");
+  sendEmail(DEFAULT_TO_EMAIL, "WEEK'S WEATHER REPORT", "         -------------------------------               ", "/home/sidra/Desktop/report_generating.txt");
 
   return 0;
 }
