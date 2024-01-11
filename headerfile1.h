@@ -13,6 +13,7 @@ int calculated_data(const char* dt_txt, double *average_temp, double lowest_temp
 int processed_file_opening(const char* newdata);
 int report_generating();
 int retrieve_values();
+void show_notification(const char *title, const char *message);
 
 #endif  // HEADERFILE1_H
 
