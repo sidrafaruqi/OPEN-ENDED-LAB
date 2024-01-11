@@ -1,26 +1,164 @@
         WEATHER REPORT           
 
-DATE: 2023-12-30
-Average Temp: 296.68
-Lowest Temp: 294
-Highest Temp: 1577164048
-Average Humidity: 36.60
-
-DATE: 2023-12-31
-Average Temp: 295.83
+DATE: 2024-01-01
+Average Temp: 296.50
 Lowest Temp: 293
-Highest Temp: 1559770099
-Average Humidity: 32.38
+Highest Temp: 299
+Average Humidity: 41.60
 
-DATE: 2023-12-30
-Average Temp: 296.68
-Lowest Temp: 294
-Highest Temp: 1394711824
-Average Humidity: 36.60
-
-DATE: 2023-12-31
-Average Temp: 295.83
+DATE: 2024-01-02
+Average Temp: 295.14
 Lowest Temp: 293
-Highest Temp: 1581954093
-Average Humidity: 32.38
+Highest Temp: 297
+Average Humidity: 59.50
+
+DATE: 2024-01-01
+Average Temp: 296.50
+Lowest Temp: 293
+Highest Temp: 299
+Average Humidity: 41.60
+
+DATE: 2024-01-02
+Average Temp: 295.14
+Lowest Temp: 293
+Highest Temp: 297
+Average Humidity: 59.50
+
+DATE: 2024-01-07
+Average Temp: 20.97
+Lowest Temp: 14
+Highest Temp: 24
+Average Humidity: 39.71
+
+DATE: 2024-01-08
+Average Temp: 21.32
+Lowest Temp: 19
+Highest Temp: 23
+Average Humidity: 46.50
+
+DATE: 2024-01-07
+Average Temp: 21.26
+Lowest Temp: 16
+Highest Temp: 24
+Average Humidity: 38.43
+
+DATE: 2024-01-08
+Average Temp: 21.32
+Lowest Temp: 19
+Highest Temp: 23
+Average Humidity: 46.50
+
+DATE: 2024-01-07
+Average Temp: 20.29
+Lowest Temp: 15
+Highest Temp: 24
+Average Humidity: 41.57
+
+DATE: 2024-01-08
+Average Temp: 21.32
+Lowest Temp: 19
+Highest Temp: 23
+Average Humidity: 46.50
+
+DATE: 2024-01-07
+Average Temp: 20.29
+Lowest Temp: 15
+Highest Temp: 24
+Average Humidity: 41.57
+
+DATE: 2024-01-08
+Average Temp: 21.32
+Lowest Temp: 19
+Highest Temp: 23
+Average Humidity: 46.50
+
+DATE: 2024-01-07
+Average Temp: 20.29
+Lowest Temp: 15
+Highest Temp: 24
+Average Humidity: 41.57
+
+DATE: 2024-01-08
+Average Temp: 21.32
+Lowest Temp: 19
+Highest Temp: 23
+Average Humidity: 46.50
+
+DATE: 2024-01-08
+Average Temp: 20.86
+Lowest Temp: 20
+Highest Temp: 20
+Average Humidity: 52.50
+
+DATE: 2024-01-09
+Average Temp: 21.18
+Lowest Temp: 18
+Highest Temp: 24
+Average Humidity: 34.12
+
+DATE: 2024-01-10
+Average Temp: 19.80
+Lowest Temp: 18
+Highest Temp: 20
+Average Humidity: 27.00
+
+DATE: 2024-01-11
+Average Temp: 20.55
+Lowest Temp: 18
+Highest Temp: 23
+Average Humidity: 40.50
+
+DATE: 2024-01-10
+Average Temp: 20.09
+Lowest Temp: 20
+Highest Temp: 20
+Average Humidity: 24.00
+
+DATE: 2024-01-10
+Average Temp: 19.80
+Lowest Temp: 18
+Highest Temp: 20
+Average Humidity: 27.00
+
+DATE: 2024-01-11
+Average Temp: 20.55
+Lowest Temp: 18
+Highest Temp: 23
+Average Humidity: 40.50
+
+DATE: 2024-01-10
+Average Temp: 19.80
+Lowest Temp: 18
+Highest Temp: 20
+Average Humidity: 27.00
+
+DATE: 2024-01-11
+Average Temp: 20.55
+Lowest Temp: 18
+Highest Temp: 23
+Average Humidity: 40.50
+
+DATE: 2024-01-10
+Average Temp: 19.80
+Lowest Temp: 18
+Highest Temp: 20
+Average Humidity: 27.00
+
+DATE: 2024-01-11
+Average Temp: 20.55
+Lowest Temp: 18
+Highest Temp: 23
+Average Humidity: 40.50
+
+DATE: 2024-01-10
+Average Temp: 19.80
+Lowest Temp: 18
+Highest Temp: 20
+Average Humidity: 27.00
+
+DATE: 2024-01-11
+Average Temp: 20.55
+Lowest Temp: 18
+Highest Temp: 23
+Average Humidity: 40.50
 

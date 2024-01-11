@@ -13,6 +13,7 @@ size_t write_callback(void *contents, size_t size, size_t nmemb, void *userp) {
     return fwrite(contents, size, nmemb, fp);
 }
 
+
 int processed_data(const char* dt_txt, cJSON* temp, cJSON* temp_min, cJSON* temp_max, cJSON* humidity) {
     cJSON *modified = cJSON_CreateObject();
     cJSON_AddStringToObject(modified, "dt_txt", dt_txt);
@@ -29,6 +30,7 @@ int processed_data(const char* dt_txt, cJSON* temp, cJSON* temp_min, cJSON* temp
     return 0;
 }
 
+
 int calculated_data(const char* dt_txt, double *average_temp, double lowest_temp, double highest_temp, double *average_humidity) {
      cJSON *calculated = cJSON_CreateObject();
     cJSON_AddStringToObject(calculated, "dt_txt", dt_txt);
@@ -44,6 +46,7 @@ int calculated_data(const char* dt_txt, double *average_temp, double lowest_temp
     cJSON_Delete(calculated);
     return 0;
 }
+
 
 int processed_file_opening(const char* newdata) {
      FILE *fp1 = fopen("processed_data.json", "r"); 
@@ -105,6 +108,7 @@ int processed_file_opening(const char* newdata) {
 
     return 0;  
 }
+
 
 int report_generating() {
     FILE *fp1 = fopen("processed_data.json", "r");
@@ -202,6 +206,7 @@ int report_generating() {
     fclose(fp2);
     return 0;
 }
+
 
 int retrieve_values() {
      FILE *fp = fopen("api_response.json","r");
@@ -309,11 +314,7 @@ int retrieve_values() {
 				        highest_temp1 = cJSON_GetNumberValue(temp_max);
 				    }
 				    
-				    //Checking for anomalies
-				    if (highest_temp1 > 50) {
-            				printf("ANOMALY DETECTED!");
-            				}
-            				
+				    
 				    //calling function to create objects for data
 				    processed_data(dt_txt->valuestring, temp, temp_min, temp_max, humidity); 
 				}
@@ -326,23 +327,32 @@ int retrieve_values() {
 				    if (lowest_temp2 > cJSON_GetNumberValue(temp_min)) {
 				        lowest_temp2 = cJSON_GetNumberValue(temp_min);
 				    }
-				    
-				    //GENERATES ALERT MAIL
-				    if (lowest_temp2 < 19) {
-            				sendEmail(DEFAULT_TO_EMAIL, "RS WEATHER ALERT", "The temperature will fall below 19 C. DRESS WARM FOR TOMORROW :) ", NULL);
-            				}
+
             				
 				    if (highest_temp2 < cJSON_GetNumberValue(temp_max)) {
 				        highest_temp2 = cJSON_GetNumberValue(temp_max);
 				    }	
 				    processed_data(dt_txt->valuestring, temp, temp_min, temp_max, humidity); 
 				}
+				
 
 		                else{
 		                    break; 
 		                }			     
   		     }
+  		     
  	}
+ 	//GENERATES ALERT MAIL
+ 	if (lowest_temp2 < 19) {
+            		sendEmail(DEFAULT_TO_EMAIL, "RS WEATHER ALERT", "The temperature will fall below 19 C. DRESS WARM FOR TOMORROW :) ", NULL);
+        }
+        //Checking for anomolies
+	if (highest_temp1 > 50) {
+            		show_notification("WARNING", "ANOMOLY DETECTED!");
+       }
+            				
+            				
+ 	
     }
     //Calculations for accessed data
     char date1[20]; 
@@ -366,5 +376,23 @@ int retrieve_values() {
 
      
     cJSON_Delete(json);
+}
+
+
+void show_notification(const char *title, const char *message) {
+    // Calculate the required size for the command string
+    size_t command_size = snprintf(NULL, 0, "notify-send '%s' '%s'", title, message) + 1;
+
+    // Allocate memory for the command string
+    char *command = malloc(command_size);
+    
+    // Build the command using snprintf
+    snprintf(command, command_size, "notify-send '%s' '%s'", title, message);
+
+    // Use system() to execute the command
+    int result = system(command);
+
+    // Free the dynamically allocated memory
+    free(command);
 }
 
