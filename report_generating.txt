@@ -1,0 +1,14 @@
+        WEATHER REPORT           
+
+DATE: 2024-01-11
+Average Temp: 19.73
+Lowest Temp: 19
+Highest Temp: 20
+Average Humidity: 51.50
+
+DATE: 2024-01-12
+Average Temp: 20.93
+Lowest Temp: 18
+Highest Temp: 23
+Average Humidity: 52.50
+
