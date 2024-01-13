@@ -1,0 +1,1857 @@
+{
+	"myArray":	[{
+			"dt_txt":	"2024-01-01 09:00:00",
+			"temp":	299.24,
+			"temp_min":	298.09,
+			"temp_max":	299.24,
+			"humidity":	22
+		}, {
+			"dt_txt":	"2024-01-01 12:00:00",
+			"temp":	298.62,
+			"temp_min":	297.37,
+			"temp_max":	298.62,
+			"humidity":	27
+		}, {
+			"dt_txt":	"2024-01-01 15:00:00",
+			"temp":	296.33,
+			"temp_min":	294.87,
+			"temp_max":	296.33,
+			"humidity":	51
+		}, {
+			"dt_txt":	"2024-01-01 18:00:00",
+			"temp":	294.36,
+			"temp_min":	294.36,
+			"temp_max":	294.36,
+			"humidity":	57
+		}, {
+			"dt_txt":	"2024-01-01 21:00:00",
+			"temp":	293.96,
+			"temp_min":	293.96,
+			"temp_max":	293.96,
+			"humidity":	51
+		}, {
+			"dt_txt":	"2024-01-02 00:00:00",
+			"temp":	293.28,
+			"temp_min":	293.28,
+			"temp_max":	293.28,
+			"humidity":	50
+		}, {
+			"dt_txt":	"2024-01-02 03:00:00",
+			"temp":	293.4,
+			"temp_min":	293.4,
+			"temp_max":	293.4,
+			"humidity":	54
+		}, {
+			"dt_txt":	"2024-01-02 06:00:00",
+			"temp":	296.24,
+			"temp_min":	296.24,
+			"temp_max":	296.24,
+			"humidity":	41
+		}, {
+			"dt_txt":	"2024-01-02 09:00:00",
+			"temp":	297.37,
+			"temp_min":	297.37,
+			"temp_max":	297.37,
+			"humidity":	39
+		}, {
+			"dt_txt":	"2024-01-02 12:00:00",
+			"temp":	296.41,
+			"temp_min":	296.41,
+			"temp_max":	296.41,
+			"humidity":	63
+		}, {
+			"dt_txt":	"2024-01-02 15:00:00",
+			"temp":	295.25,
+			"temp_min":	295.25,
+			"temp_max":	295.25,
+			"humidity":	75
+		}, {
+			"dt_txt":	"2024-01-02 18:00:00",
+			"temp":	294.85,
+			"temp_min":	294.85,
+			"temp_max":	294.85,
+			"humidity":	77
+		}, {
+			"dt_txt":	"2024-01-02 21:00:00",
+			"temp":	294.36,
+			"temp_min":	294.36,
+			"temp_max":	294.36,
+			"humidity":	77
+		}, {
+			"dt_txt":	"2024-01-01",
+			"average_temp":	296.502,
+			"average_humidity":	41.6,
+			"lowest_temp":	293,
+			"highest_temp":	299
+		}, {
+			"dt_txt":	"2024-01-02",
+			"average_temp":	295.145,
+			"average_humidity":	59.5,
+			"lowest_temp":	293,
+			"highest_temp":	297
+		}, {
+			"dt_txt":	"2024-01-01 09:00:00",
+			"temp":	299.24,
+			"temp_min":	298.09,
+			"temp_max":	299.24,
+			"humidity":	22
+		}, {
+			"dt_txt":	"2024-01-01 12:00:00",
+			"temp":	298.62,
+			"temp_min":	297.37,
+			"temp_max":	298.62,
+			"humidity":	27
+		}, {
+			"dt_txt":	"2024-01-01 15:00:00",
+			"temp":	296.33,
+			"temp_min":	294.87,
+			"temp_max":	296.33,
+			"humidity":	51
+		}, {
+			"dt_txt":	"2024-01-01 18:00:00",
+			"temp":	294.36,
+			"temp_min":	294.36,
+			"temp_max":	294.36,
+			"humidity":	57
+		}, {
+			"dt_txt":	"2024-01-01 21:00:00",
+			"temp":	293.96,
+			"temp_min":	293.96,
+			"temp_max":	293.96,
+			"humidity":	51
+		}, {
+			"dt_txt":	"2024-01-02 00:00:00",
+			"temp":	293.28,
+			"temp_min":	293.28,
+			"temp_max":	293.28,
+			"humidity":	50
+		}, {
+			"dt_txt":	"2024-01-02 03:00:00",
+			"temp":	293.4,
+			"temp_min":	293.4,
+			"temp_max":	293.4,
+			"humidity":	54
+		}, {
+			"dt_txt":	"2024-01-02 06:00:00",
+			"temp":	296.24,
+			"temp_min":	296.24,
+			"temp_max":	296.24,
+			"humidity":	41
+		}, {
+			"dt_txt":	"2024-01-02 09:00:00",
+			"temp":	297.37,
+			"temp_min":	297.37,
+			"temp_max":	297.37,
+			"humidity":	39
+		}, {
+			"dt_txt":	"2024-01-02 12:00:00",
+			"temp":	296.41,
+			"temp_min":	296.41,
+			"temp_max":	296.41,
+			"humidity":	63
+		}, {
+			"dt_txt":	"2024-01-02 15:00:00",
+			"temp":	295.25,
+			"temp_min":	295.25,
+			"temp_max":	295.25,
+			"humidity":	75
+		}, {
+			"dt_txt":	"2024-01-02 18:00:00",
+			"temp":	294.85,
+			"temp_min":	294.85,
+			"temp_max":	294.85,
+			"humidity":	77
+		}, {
+			"dt_txt":	"2024-01-02 21:00:00",
+			"temp":	294.36,
+			"temp_min":	294.36,
+			"temp_max":	294.36,
+			"humidity":	77
+		}, {
+			"dt_txt":	"2024-01-01",
+			"average_temp":	296.502,
+			"average_humidity":	41.6,
+			"lowest_temp":	293,
+			"highest_temp":	299
+		}, {
+			"dt_txt":	"2024-01-02",
+			"average_temp":	295.145,
+			"average_humidity":	59.5,
+			"lowest_temp":	293,
+			"highest_temp":	297
+		}, {
+			"dt_txt":	"2024-01-07 03:00:00",
+			"temp":	14.94,
+			"temp_min":	14.94,
+			"temp_max":	18.64,
+			"humidity":	58
+		}, {
+			"dt_txt":	"2024-01-07 06:00:00",
+			"temp":	19.32,
+			"temp_min":	19.32,
+			"temp_max":	22.44,
+			"humidity":	45
+		}, {
+			"dt_txt":	"2024-01-07 09:00:00",
+			"temp":	24.57,
+			"temp_min":	24.57,
+			"temp_max":	24.57,
+			"humidity":	33
+		}, {
+			"dt_txt":	"2024-01-07 12:00:00",
+			"temp":	24.58,
+			"temp_min":	24.58,
+			"temp_max":	24.58,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-07 15:00:00",
+			"temp":	22.17,
+			"temp_min":	22.17,
+			"temp_max":	22.17,
+			"humidity":	37
+		}, {
+			"dt_txt":	"2024-01-07 18:00:00",
+			"temp":	21.07,
+			"temp_min":	21.07,
+			"temp_max":	21.07,
+			"humidity":	37
+		}, {
+			"dt_txt":	"2024-01-07 21:00:00",
+			"temp":	20.14,
+			"temp_min":	20.14,
+			"temp_max":	20.14,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-08 00:00:00",
+			"temp":	19.36,
+			"temp_min":	19.36,
+			"temp_max":	19.36,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-08 03:00:00",
+			"temp":	19.47,
+			"temp_min":	19.47,
+			"temp_max":	19.47,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-08 06:00:00",
+			"temp":	22.26,
+			"temp_min":	22.26,
+			"temp_max":	22.26,
+			"humidity":	31
+		}, {
+			"dt_txt":	"2024-01-08 09:00:00",
+			"temp":	23.4,
+			"temp_min":	23.4,
+			"temp_max":	23.4,
+			"humidity":	38
+		}, {
+			"dt_txt":	"2024-01-08 12:00:00",
+			"temp":	22.82,
+			"temp_min":	22.82,
+			"temp_max":	22.82,
+			"humidity":	50
+		}, {
+			"dt_txt":	"2024-01-08 15:00:00",
+			"temp":	21.65,
+			"temp_min":	21.65,
+			"temp_max":	21.65,
+			"humidity":	64
+		}, {
+			"dt_txt":	"2024-01-08 18:00:00",
+			"temp":	21.12,
+			"temp_min":	21.12,
+			"temp_max":	21.12,
+			"humidity":	67
+		}, {
+			"dt_txt":	"2024-01-08 21:00:00",
+			"temp":	20.49,
+			"temp_min":	20.49,
+			"temp_max":	20.49,
+			"humidity":	54
+		}, {
+			"dt_txt":	"2024-01-07",
+			"average_temp":	20.97,
+			"average_humidity":	39.714285714285715,
+			"lowest_temp":	14,
+			"highest_temp":	24
+		}, {
+			"dt_txt":	"2024-01-08",
+			"average_temp":	21.32125,
+			"average_humidity":	46.5,
+			"lowest_temp":	19,
+			"highest_temp":	23
+		}, {
+			"dt_txt":	"2024-01-07 03:00:00",
+			"temp":	16.27,
+			"temp_min":	16.27,
+			"temp_max":	18.64,
+			"humidity":	52
+		}, {
+			"dt_txt":	"2024-01-07 06:00:00",
+			"temp":	19.99,
+			"temp_min":	19.99,
+			"temp_max":	22.44,
+			"humidity":	42
+		}, {
+			"dt_txt":	"2024-01-07 09:00:00",
+			"temp":	24.57,
+			"temp_min":	24.57,
+			"temp_max":	24.57,
+			"humidity":	33
+		}, {
+			"dt_txt":	"2024-01-07 12:00:00",
+			"temp":	24.58,
+			"temp_min":	24.58,
+			"temp_max":	24.58,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-07 15:00:00",
+			"temp":	22.17,
+			"temp_min":	22.17,
+			"temp_max":	22.17,
+			"humidity":	37
+		}, {
+			"dt_txt":	"2024-01-07 18:00:00",
+			"temp":	21.07,
+			"temp_min":	21.07,
+			"temp_max":	21.07,
+			"humidity":	37
+		}, {
+			"dt_txt":	"2024-01-07 21:00:00",
+			"temp":	20.14,
+			"temp_min":	20.14,
+			"temp_max":	20.14,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-08 00:00:00",
+			"temp":	19.36,
+			"temp_min":	19.36,
+			"temp_max":	19.36,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-08 03:00:00",
+			"temp":	19.47,
+			"temp_min":	19.47,
+			"temp_max":	19.47,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-08 06:00:00",
+			"temp":	22.26,
+			"temp_min":	22.26,
+			"temp_max":	22.26,
+			"humidity":	31
+		}, {
+			"dt_txt":	"2024-01-08 09:00:00",
+			"temp":	23.4,
+			"temp_min":	23.4,
+			"temp_max":	23.4,
+			"humidity":	38
+		}, {
+			"dt_txt":	"2024-01-08 12:00:00",
+			"temp":	22.82,
+			"temp_min":	22.82,
+			"temp_max":	22.82,
+			"humidity":	50
+		}, {
+			"dt_txt":	"2024-01-08 15:00:00",
+			"temp":	21.65,
+			"temp_min":	21.65,
+			"temp_max":	21.65,
+			"humidity":	64
+		}, {
+			"dt_txt":	"2024-01-08 18:00:00",
+			"temp":	21.12,
+			"temp_min":	21.12,
+			"temp_max":	21.12,
+			"humidity":	67
+		}, {
+			"dt_txt":	"2024-01-08 21:00:00",
+			"temp":	20.49,
+			"temp_min":	20.49,
+			"temp_max":	20.49,
+			"humidity":	54
+		}, {
+			"dt_txt":	"2024-01-07",
+			"average_temp":	21.255714285714287,
+			"average_humidity":	38.428571428571431,
+			"lowest_temp":	16,
+			"highest_temp":	24
+		}, {
+			"dt_txt":	"2024-01-08",
+			"average_temp":	21.32125,
+			"average_humidity":	46.5,
+			"lowest_temp":	19,
+			"highest_temp":	23
+		}, {
+			"dt_txt":	"2024-01-07 03:00:00",
+			"temp":	15.09,
+			"temp_min":	15.09,
+			"temp_max":	18.64,
+			"humidity":	58
+		}, {
+			"dt_txt":	"2024-01-07 06:00:00",
+			"temp":	17.54,
+			"temp_min":	17.54,
+			"temp_max":	22.44,
+			"humidity":	50
+		}, {
+			"dt_txt":	"2024-01-07 09:00:00",
+			"temp":	21.41,
+			"temp_min":	21.41,
+			"temp_max":	24.57,
+			"humidity":	41
+		}, {
+			"dt_txt":	"2024-01-07 12:00:00",
+			"temp":	24.58,
+			"temp_min":	24.58,
+			"temp_max":	24.58,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-07 15:00:00",
+			"temp":	22.17,
+			"temp_min":	22.17,
+			"temp_max":	22.17,
+			"humidity":	37
+		}, {
+			"dt_txt":	"2024-01-07 18:00:00",
+			"temp":	21.07,
+			"temp_min":	21.07,
+			"temp_max":	21.07,
+			"humidity":	37
+		}, {
+			"dt_txt":	"2024-01-07 21:00:00",
+			"temp":	20.14,
+			"temp_min":	20.14,
+			"temp_max":	20.14,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-08 00:00:00",
+			"temp":	19.36,
+			"temp_min":	19.36,
+			"temp_max":	19.36,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-08 03:00:00",
+			"temp":	19.47,
+			"temp_min":	19.47,
+			"temp_max":	19.47,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-08 06:00:00",
+			"temp":	22.26,
+			"temp_min":	22.26,
+			"temp_max":	22.26,
+			"humidity":	31
+		}, {
+			"dt_txt":	"2024-01-08 09:00:00",
+			"temp":	23.4,
+			"temp_min":	23.4,
+			"temp_max":	23.4,
+			"humidity":	38
+		}, {
+			"dt_txt":	"2024-01-08 12:00:00",
+			"temp":	22.82,
+			"temp_min":	22.82,
+			"temp_max":	22.82,
+			"humidity":	50
+		}, {
+			"dt_txt":	"2024-01-08 15:00:00",
+			"temp":	21.65,
+			"temp_min":	21.65,
+			"temp_max":	21.65,
+			"humidity":	64
+		}, {
+			"dt_txt":	"2024-01-08 18:00:00",
+			"temp":	21.12,
+			"temp_min":	21.12,
+			"temp_max":	21.12,
+			"humidity":	67
+		}, {
+			"dt_txt":	"2024-01-08 21:00:00",
+			"temp":	20.49,
+			"temp_min":	20.49,
+			"temp_max":	20.49,
+			"humidity":	54
+		}, {
+			"dt_txt":	"2024-01-07",
+			"average_temp":	20.285714285714285,
+			"average_humidity":	41.571428571428569,
+			"lowest_temp":	15,
+			"highest_temp":	24
+		}, {
+			"dt_txt":	"2024-01-08",
+			"average_temp":	21.32125,
+			"average_humidity":	46.5,
+			"lowest_temp":	19,
+			"highest_temp":	23
+		}, {
+			"dt_txt":	"2024-01-07 03:00:00",
+			"temp":	15.09,
+			"temp_min":	15.09,
+			"temp_max":	18.64,
+			"humidity":	58
+		}, {
+			"dt_txt":	"2024-01-07 06:00:00",
+			"temp":	17.54,
+			"temp_min":	17.54,
+			"temp_max":	22.44,
+			"humidity":	50
+		}, {
+			"dt_txt":	"2024-01-07 09:00:00",
+			"temp":	21.41,
+			"temp_min":	21.41,
+			"temp_max":	24.57,
+			"humidity":	41
+		}, {
+			"dt_txt":	"2024-01-07 12:00:00",
+			"temp":	24.58,
+			"temp_min":	24.58,
+			"temp_max":	24.58,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-07 15:00:00",
+			"temp":	22.17,
+			"temp_min":	22.17,
+			"temp_max":	22.17,
+			"humidity":	37
+		}, {
+			"dt_txt":	"2024-01-07 18:00:00",
+			"temp":	21.07,
+			"temp_min":	21.07,
+			"temp_max":	21.07,
+			"humidity":	37
+		}, {
+			"dt_txt":	"2024-01-07 21:00:00",
+			"temp":	20.14,
+			"temp_min":	20.14,
+			"temp_max":	20.14,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-08 00:00:00",
+			"temp":	19.36,
+			"temp_min":	19.36,
+			"temp_max":	19.36,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-08 03:00:00",
+			"temp":	19.47,
+			"temp_min":	19.47,
+			"temp_max":	19.47,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-08 06:00:00",
+			"temp":	22.26,
+			"temp_min":	22.26,
+			"temp_max":	22.26,
+			"humidity":	31
+		}, {
+			"dt_txt":	"2024-01-08 09:00:00",
+			"temp":	23.4,
+			"temp_min":	23.4,
+			"temp_max":	23.4,
+			"humidity":	38
+		}, {
+			"dt_txt":	"2024-01-08 12:00:00",
+			"temp":	22.82,
+			"temp_min":	22.82,
+			"temp_max":	22.82,
+			"humidity":	50
+		}, {
+			"dt_txt":	"2024-01-08 15:00:00",
+			"temp":	21.65,
+			"temp_min":	21.65,
+			"temp_max":	21.65,
+			"humidity":	64
+		}, {
+			"dt_txt":	"2024-01-08 18:00:00",
+			"temp":	21.12,
+			"temp_min":	21.12,
+			"temp_max":	21.12,
+			"humidity":	67
+		}, {
+			"dt_txt":	"2024-01-08 21:00:00",
+			"temp":	20.49,
+			"temp_min":	20.49,
+			"temp_max":	20.49,
+			"humidity":	54
+		}, {
+			"dt_txt":	"2024-01-07",
+			"average_temp":	20.285714285714285,
+			"average_humidity":	41.571428571428569,
+			"lowest_temp":	15,
+			"highest_temp":	24
+		}, {
+			"dt_txt":	"2024-01-08",
+			"average_temp":	21.32125,
+			"average_humidity":	46.5,
+			"lowest_temp":	19,
+			"highest_temp":	23
+		}, {
+			"dt_txt":	"2024-01-07 03:00:00",
+			"temp":	15.09,
+			"temp_min":	15.09,
+			"temp_max":	18.64,
+			"humidity":	58
+		}, {
+			"dt_txt":	"2024-01-07 06:00:00",
+			"temp":	17.54,
+			"temp_min":	17.54,
+			"temp_max":	22.44,
+			"humidity":	50
+		}, {
+			"dt_txt":	"2024-01-07 09:00:00",
+			"temp":	21.41,
+			"temp_min":	21.41,
+			"temp_max":	24.57,
+			"humidity":	41
+		}, {
+			"dt_txt":	"2024-01-07 12:00:00",
+			"temp":	24.58,
+			"temp_min":	24.58,
+			"temp_max":	24.58,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-07 15:00:00",
+			"temp":	22.17,
+			"temp_min":	22.17,
+			"temp_max":	22.17,
+			"humidity":	37
+		}, {
+			"dt_txt":	"2024-01-07 18:00:00",
+			"temp":	21.07,
+			"temp_min":	21.07,
+			"temp_max":	21.07,
+			"humidity":	37
+		}, {
+			"dt_txt":	"2024-01-07 21:00:00",
+			"temp":	20.14,
+			"temp_min":	20.14,
+			"temp_max":	20.14,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-08 00:00:00",
+			"temp":	19.36,
+			"temp_min":	19.36,
+			"temp_max":	19.36,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-08 03:00:00",
+			"temp":	19.47,
+			"temp_min":	19.47,
+			"temp_max":	19.47,
+			"humidity":	34
+		}, {
+			"dt_txt":	"2024-01-08 06:00:00",
+			"temp":	22.26,
+			"temp_min":	22.26,
+			"temp_max":	22.26,
+			"humidity":	31
+		}, {
+			"dt_txt":	"2024-01-08 09:00:00",
+			"temp":	23.4,
+			"temp_min":	23.4,
+			"temp_max":	23.4,
+			"humidity":	38
+		}, {
+			"dt_txt":	"2024-01-08 12:00:00",
+			"temp":	22.82,
+			"temp_min":	22.82,
+			"temp_max":	22.82,
+			"humidity":	50
+		}, {
+			"dt_txt":	"2024-01-08 15:00:00",
+			"temp":	21.65,
+			"temp_min":	21.65,
+			"temp_max":	21.65,
+			"humidity":	64
+		}, {
+			"dt_txt":	"2024-01-08 18:00:00",
+			"temp":	21.12,
+			"temp_min":	21.12,
+			"temp_max":	21.12,
+			"humidity":	67
+		}, {
+			"dt_txt":	"2024-01-08 21:00:00",
+			"temp":	20.49,
+			"temp_min":	20.49,
+			"temp_max":	20.49,
+			"humidity":	54
+		}, {
+			"dt_txt":	"2024-01-07",
+			"average_temp":	20.285714285714285,
+			"average_humidity":	41.571428571428569,
+			"lowest_temp":	15,
+			"highest_temp":	24
+		}, {
+			"dt_txt":	"2024-01-08",
+			"average_temp":	21.32125,
+			"average_humidity":	46.5,
+			"lowest_temp":	19,
+			"highest_temp":	23
+		}, {
+			"dt_txt":	"2024-01-08 18:00:00",
+			"temp":	20.95,
+			"temp_min":	20.68,
+			"temp_max":	20.95,
+			"humidity":	54
+		}, {
+			"dt_txt":	"2024-01-08 21:00:00",
+			"temp":	20.76,
+			"temp_min":	20.59,
+			"temp_max":	20.76,
+			"humidity":	51
+		}, {
+			"dt_txt":	"2024-01-09 00:00:00",
+			"temp":	19.14,
+			"temp_min":	19.14,
+			"temp_max":	19.14,
+			"humidity":	36
+		}, {
+			"dt_txt":	"2024-01-09 03:00:00",
+			"temp":	18.38,
+			"temp_min":	18.38,
+			"temp_max":	18.38,
+			"humidity":	37
+		}, {
+			"dt_txt":	"2024-01-09 06:00:00",
+			"temp":	22.36,
+			"temp_min":	22.36,
+			"temp_max":	22.36,
+			"humidity":	32
+		}, {
+			"dt_txt":	"2024-01-09 09:00:00",
+			"temp":	24.32,
+			"temp_min":	24.32,
+			"temp_max":	24.32,
+			"humidity":	29
+		}, {
+			"dt_txt":	"2024-01-09 12:00:00",
+			"temp":	24.2,
+			"temp_min":	24.2,
+			"temp_max":	24.2,
+			"humidity":	29
+		}, {
+			"dt_txt":	"2024-01-09 15:00:00",
+			"temp":	21.72,
+			"temp_min":	21.72,
+			"temp_max":	21.72,
+			"humidity":	35
+		}, {
+			"dt_txt":	"2024-01-09 18:00:00",
+			"temp":	20.23,
+			"temp_min":	20.23,
+			"temp_max":	20.23,
+			"humidity":	38
+		}, {
+			"dt_txt":	"2024-01-09 21:00:00",
+			"temp":	19.08,
+			"temp_min":	19.08,
+			"temp_max":	19.08,
+			"humidity":	37
+		}, {
+			"dt_txt":	"2024-01-08",
+			"average_temp":	20.855,
+			"average_humidity":	52.5,
+			"lowest_temp":	20,
+			"highest_temp":	20
+		}, {
+			"dt_txt":	"2024-01-09",
+			"average_temp":	21.17875,
+			"average_humidity":	34.125,
+			"lowest_temp":	18,
+			"highest_temp":	24
+		}, {
+			"dt_txt":	"2024-01-10 15:00:00",
+			"temp":	20.09,
+			"temp_min":	20.09,
+			"temp_max":	20.27,
+			"humidity":	24
+		}, {
+			"dt_txt":	"2024-01-10 18:00:00",
+			"temp":	19.97,
+			"temp_min":	19.72,
+			"temp_max":	19.97,
+			"humidity":	28
+		}, {
+			"dt_txt":	"2024-01-10 21:00:00",
+			"temp":	19.34,
+			"temp_min":	18.97,
+			"temp_max":	19.34,
+			"humidity":	29
+		}, {
+			"dt_txt":	"2024-01-11 00:00:00",
+			"temp":	18.14,
+			"temp_min":	18.14,
+			"temp_max":	18.14,
+			"humidity":	31
+		}, {
+			"dt_txt":	"2024-01-11 03:00:00",
+			"temp":	18.13,
+			"temp_min":	18.13,
+			"temp_max":	18.13,
+			"humidity":	31
+		}, {
+			"dt_txt":	"2024-01-11 06:00:00",
+			"temp":	21.34,
+			"temp_min":	21.34,
+			"temp_max":	21.34,
+			"humidity":	24
+		}, {
+			"dt_txt":	"2024-01-11 09:00:00",
+			"temp":	23.38,
+			"temp_min":	23.38,
+			"temp_max":	23.38,
+			"humidity":	24
+		}, {
+			"dt_txt":	"2024-01-11 12:00:00",
+			"temp":	23.2,
+			"temp_min":	23.2,
+			"temp_max":	23.2,
+			"humidity":	39
+		}, {
+			"dt_txt":	"2024-01-11 15:00:00",
+			"temp":	20.78,
+			"temp_min":	20.78,
+			"temp_max":	20.78,
+			"humidity":	56
+		}, {
+			"dt_txt":	"2024-01-11 18:00:00",
+			"temp":	20.2,
+			"temp_min":	20.2,
+			"temp_max":	20.2,
+			"humidity":	59
+		}, {
+			"dt_txt":	"2024-01-11 21:00:00",
+			"temp":	19.25,
+			"temp_min":	19.25,
+			"temp_max":	19.25,
+			"humidity":	60
+		}, {
+			"dt_txt":	"2024-01-10",
+			"average_temp":	19.8,
+			"average_humidity":	27,
+			"lowest_temp":	18,
+			"highest_temp":	20
+		}, {
+			"dt_txt":	"2024-01-11",
+			"average_temp":	20.5525,
+			"average_humidity":	40.5,
+			"lowest_temp":	18,
+			"highest_temp":	23
+		}, {
+			"dt_txt":	"2024-01-10 15:00:00",
+			"temp":	20.09,
+			"temp_min":	20.09,
+			"temp_max":	20.27,
+			"humidity":	24
+		}, {
+			"dt_txt":	"2024-01-10",
+			"average_temp":	20.09,
+			"average_humidity":	24,
+			"lowest_temp":	20,
+			"highest_temp":	20
+		}, {
+			"dt_txt":	"2024-01-10 15:00:00",
+			"temp":	20.09,
+			"temp_min":	20.09,
+			"temp_max":	20.27,
+			"humidity":	24
+		}, {
+			"dt_txt":	"2024-01-10 18:00:00",
+			"temp":	19.97,
+			"temp_min":	19.72,
+			"temp_max":	19.97,
+			"humidity":	28
+		}, {
+			"dt_txt":	"2024-01-10 21:00:00",
+			"temp":	19.34,
+			"temp_min":	18.97,
+			"temp_max":	19.34,
+			"humidity":	29
+		}, {
+			"dt_txt":	"2024-01-11 00:00:00",
+			"temp":	18.14,
+			"temp_min":	18.14,
+			"temp_max":	18.14,
+			"humidity":	31
+		}, {
+			"dt_txt":	"2024-01-11 03:00:00",
+			"temp":	18.13,
+			"temp_min":	18.13,
+			"temp_max":	18.13,
+			"humidity":	31
+		}, {
+			"dt_txt":	"2024-01-11 06:00:00",
+			"temp":	21.34,
+			"temp_min":	21.34,
+			"temp_max":	21.34,
+			"humidity":	24
+		}, {
+			"dt_txt":	"2024-01-11 09:00:00",
+			"temp":	23.38,
+			"temp_min":	23.38,
+			"temp_max":	23.38,
+			"humidity":	24
+		}, {
+			"dt_txt":	"2024-01-11 12:00:00",
+			"temp":	23.2,
+			"temp_min":	23.2,
+			"temp_max":	23.2,
+			"humidity":	39
+		}, {
+			"dt_txt":	"2024-01-11 15:00:00",
+			"temp":	20.78,
+			"temp_min":	20.78,
+			"temp_max":	20.78,
+			"humidity":	56
+		}, {
+			"dt_txt":	"2024-01-11 18:00:00",
+			"temp":	20.2,
+			"temp_min":	20.2,
+			"temp_max":	20.2,
+			"humidity":	59
+		}, {
+			"dt_txt":	"2024-01-11 21:00:00",
+			"temp":	19.25,
+			"temp_min":	19.25,
+			"temp_max":	19.25,
+			"humidity":	60
+		}, {
+			"dt_txt":	"2024-01-10",
+			"average_temp":	19.8,
+			"average_humidity":	27,
+			"lowest_temp":	18,
+			"highest_temp":	20
+		}, {
+			"dt_txt":	"2024-01-11",
+			"average_temp":	20.5525,
+			"average_humidity":	40.5,
+			"lowest_temp":	18,
+			"highest_temp":	23
+		}, {
+			"dt_txt":	"2024-01-10 15:00:00",
+			"temp":	20.09,
+			"temp_min":	20.09,
+			"temp_max":	20.27,
+			"humidity":	24
+		}, {
+			"dt_txt":	"2024-01-10 18:00:00",
+			"temp":	19.97,
+			"temp_min":	19.72,
+			"temp_max":	19.97,
+			"humidity":	28
+		}, {
+			"dt_txt":	"2024-01-10 21:00:00",
+			"temp":	19.34,
+			"temp_min":	18.97,
+			"temp_max":	19.34,
+			"humidity":	29
+		}, {
+			"dt_txt":	"2024-01-11 00:00:00",
+			"temp":	18.14,
+			"temp_min":	18.14,
+			"temp_max":	18.14,
+			"humidity":	31
+		}, {
+			"dt_txt":	"2024-01-11 03:00:00",
+			"temp":	18.13,
+			"temp_min":	18.13,
+			"temp_max":	18.13,
+			"humidity":	31
+		}, {
+			"dt_txt":	"2024-01-11 06:00:00",
+			"temp":	21.34,
+			"temp_min":	21.34,
+			"temp_max":	21.34,
+			"humidity":	24
+		}, {
+			"dt_txt":	"2024-01-11 09:00:00",
+			"temp":	23.38,
+			"temp_min":	23.38,
+			"temp_max":	23.38,
+			"humidity":	24
+		}, {
+			"dt_txt":	"2024-01-11 12:00:00",
+			"temp":	23.2,
+			"temp_min":	23.2,
+			"temp_max":	23.2,
+			"humidity":	39
+		}, {
+			"dt_txt":	"2024-01-11 15:00:00",
+			"temp":	20.78,
+			"temp_min":	20.78,
+			"temp_max":	20.78,
+			"humidity":	56
+		}, {
+			"dt_txt":	"2024-01-11 18:00:00",
+			"temp":	20.2,
+			"temp_min":	20.2,
+			"temp_max":	20.2,
+			"humidity":	59
+		}, {
+			"dt_txt":	"2024-01-11 21:00:00",
+			"temp":	19.25,
+			"temp_min":	19.25,
+			"temp_max":	19.25,
+			"humidity":	60
+		}, {
+			"dt_txt":	"2024-01-10",
+			"average_temp":	19.8,
+			"average_humidity":	27,
+			"lowest_temp":	18,
+			"highest_temp":	20
+		}, {
+			"dt_txt":	"2024-01-11",
+			"average_temp":	20.5525,
+			"average_humidity":	40.5,
+			"lowest_temp":	18,
+			"highest_temp":	23
+		}, {
+			"dt_txt":	"2024-01-10 15:00:00",
+			"temp":	20.09,
+			"temp_min":	20.09,
+			"temp_max":	20.27,
+			"humidity":	24
+		}, {
+			"dt_txt":	"2024-01-10 18:00:00",
+			"temp":	19.97,
+			"temp_min":	19.72,
+			"temp_max":	19.97,
+			"humidity":	28
+		}, {
+			"dt_txt":	"2024-01-10 21:00:00",
+			"temp":	19.34,
+			"temp_min":	18.97,
+			"temp_max":	19.34,
+			"humidity":	29
+		}, {
+			"dt_txt":	"2024-01-11 00:00:00",
+			"temp":	18.14,
+			"temp_min":	18.14,
+			"temp_max":	18.14,
+			"humidity":	31
+		}, {
+			"dt_txt":	"2024-01-11 03:00:00",
+			"temp":	18.13,
+			"temp_min":	18.13,
+			"temp_max":	18.13,
+			"humidity":	31
+		}, {
+			"dt_txt":	"2024-01-11 06:00:00",
+			"temp":	21.34,
+			"temp_min":	21.34,
+			"temp_max":	21.34,
+			"humidity":	24
+		}, {
+			"dt_txt":	"2024-01-11 09:00:00",
+			"temp":	23.38,
+			"temp_min":	23.38,
+			"temp_max":	23.38,
+			"humidity":	24
+		}, {
+			"dt_txt":	"2024-01-11 12:00:00",
+			"temp":	23.2,
+			"temp_min":	23.2,
+			"temp_max":	23.2,
+			"humidity":	39
+		}, {
+			"dt_txt":	"2024-01-11 15:00:00",
+			"temp":	20.78,
+			"temp_min":	20.78,
+			"temp_max":	20.78,
+			"humidity":	56
+		}, {
+			"dt_txt":	"2024-01-11 18:00:00",
+			"temp":	20.2,
+			"temp_min":	20.2,
+			"temp_max":	20.2,
+			"humidity":	59
+		}, {
+			"dt_txt":	"2024-01-11 21:00:00",
+			"temp":	19.25,
+			"temp_min":	19.25,
+			"temp_max":	19.25,
+			"humidity":	60
+		}, {
+			"dt_txt":	"2024-01-10",
+			"average_temp":	19.8,
+			"average_humidity":	27,
+			"lowest_temp":	18,
+			"highest_temp":	20
+		}, {
+			"dt_txt":	"2024-01-11",
+			"average_temp":	20.5525,
+			"average_humidity":	40.5,
+			"lowest_temp":	18,
+			"highest_temp":	23
+		}, {
+			"dt_txt":	"2024-01-10 15:00:00",
+			"temp":	20.09,
+			"temp_min":	20.09,
+			"temp_max":	20.27,
+			"humidity":	24
+		}, {
+			"dt_txt":	"2024-01-10 18:00:00",
+			"temp":	19.97,
+			"temp_min":	19.72,
+			"temp_max":	19.97,
+			"humidity":	28
+		}, {
+			"dt_txt":	"2024-01-10 21:00:00",
+			"temp":	19.34,
+			"temp_min":	18.97,
+			"temp_max":	19.34,
+			"humidity":	29
+		}, {
+			"dt_txt":	"2024-01-11 00:00:00",
+			"temp":	18.14,
+			"temp_min":	18.14,
+			"temp_max":	18.14,
+			"humidity":	31
+		}, {
+			"dt_txt":	"2024-01-11 03:00:00",
+			"temp":	18.13,
+			"temp_min":	18.13,
+			"temp_max":	18.13,
+			"humidity":	31
+		}, {
+			"dt_txt":	"2024-01-11 06:00:00",
+			"temp":	21.34,
+			"temp_min":	21.34,
+			"temp_max":	21.34,
+			"humidity":	24
+		}, {
+			"dt_txt":	"2024-01-11 09:00:00",
+			"temp":	23.38,
+			"temp_min":	23.38,
+			"temp_max":	23.38,
+			"humidity":	24
+		}, {
+			"dt_txt":	"2024-01-11 12:00:00",
+			"temp":	23.2,
+			"temp_min":	23.2,
+			"temp_max":	23.2,
+			"humidity":	39
+		}, {
+			"dt_txt":	"2024-01-11 15:00:00",
+			"temp":	20.78,
+			"temp_min":	20.78,
+			"temp_max":	20.78,
+			"humidity":	56
+		}, {
+			"dt_txt":	"2024-01-11 18:00:00",
+			"temp":	20.2,
+			"temp_min":	20.2,
+			"temp_max":	20.2,
+			"humidity":	59
+		}, {
+			"dt_txt":	"2024-01-11 21:00:00",
+			"temp":	19.25,
+			"temp_min":	19.25,
+			"temp_max":	19.25,
+			"humidity":	60
+		}, {
+			"dt_txt":	"2024-01-10",
+			"average_temp":	19.8,
+			"average_humidity":	27,
+			"lowest_temp":	18,
+			"highest_temp":	20
+		}, {
+			"dt_txt":	"2024-01-11",
+			"average_temp":	20.5525,
+			"average_humidity":	40.5,
+			"lowest_temp":	18,
+			"highest_temp":	23
+		}, {
+			"dt_txt":	"2024-01-13 09:00:00",
+			"temp":	24.09,
+			"temp_min":	23.2,
+			"temp_max":	24.09,
+			"humidity":	46
+		}, {
+			"dt_txt":	"2024-01-13 12:00:00",
+			"temp":	23.52,
+			"temp_min":	22.38,
+			"temp_max":	23.52,
+			"humidity":	48
+		}, {
+			"dt_txt":	"2024-01-13 15:00:00",
+			"temp":	21.96,
+			"temp_min":	20.9,
+			"temp_max":	21.96,
+			"humidity":	59
+		}, {
+			"dt_txt":	"2024-01-13 18:00:00",
+			"temp":	20.73,
+			"temp_min":	20.73,
+			"temp_max":	20.73,
+			"humidity":	73
+		}, {
+			"dt_txt":	"2024-01-13 21:00:00",
+			"temp":	20.47,
+			"temp_min":	20.47,
+			"temp_max":	20.47,
+			"humidity":	76
+		}, {
+			"dt_txt":	"2024-01-14 00:00:00",
+			"temp":	20.28,
+			"temp_min":	20.28,
+			"temp_max":	20.28,
+			"humidity":	79
+		}, {
+			"dt_txt":	"2024-01-14 03:00:00",
+			"temp":	20.34,
+			"temp_min":	20.34,
+			"temp_max":	20.34,
+			"humidity":	78
+		}, {
+			"dt_txt":	"2024-01-14 06:00:00",
+			"temp":	22.89,
+			"temp_min":	22.89,
+			"temp_max":	22.89,
+			"humidity":	61
+		}, {
+			"dt_txt":	"2024-01-14 09:00:00",
+			"temp":	24.34,
+			"temp_min":	24.34,
+			"temp_max":	24.34,
+			"humidity":	53
+		}, {
+			"dt_txt":	"2024-01-14 12:00:00",
+			"temp":	23.3,
+			"temp_min":	23.3,
+			"temp_max":	23.3,
+			"humidity":	58
+		}, {
+			"dt_txt":	"2024-01-14 15:00:00",
+			"temp":	21.58,
+			"temp_min":	21.58,
+			"temp_max":	21.58,
+			"humidity":	73
+		}, {
+			"dt_txt":	"2024-01-14 18:00:00",
+			"temp":	21.05,
+			"temp_min":	21.05,
+			"temp_max":	21.05,
+			"humidity":	75
+		}, {
+			"dt_txt":	"2024-01-14 21:00:00",
+			"temp":	20.57,
+			"temp_min":	20.57,
+			"temp_max":	20.57,
+			"humidity":	78
+		}, {
+			"dt_txt":	"2024-01-13",
+			"average_temp":	22.154,
+			"average_humidity":	60.4,
+			"lowest_temp":	20,
+			"highest_temp":	24
+		}, {
+			"dt_txt":	"2024-01-14",
+			"average_temp":	21.79375,
+			"average_humidity":	69.375,
+			"lowest_temp":	20,
+			"highest_temp":	24
+		}, {
+			"dt_txt":	"2024-01-13 09:00:00",
+			"temp":	24.09,
+			"temp_min":	23.2,
+			"temp_max":	24.09,
+			"humidity":	46
+		}, {
+			"dt_txt":	"2024-01-13 12:00:00",
+			"temp":	23.52,
+			"temp_min":	22.38,
+			"temp_max":	23.52,
+			"humidity":	48
+		}, {
+			"dt_txt":	"2024-01-13 15:00:00",
+			"temp":	21.96,
+			"temp_min":	20.9,
+			"temp_max":	21.96,
+			"humidity":	59
+		}, {
+			"dt_txt":	"2024-01-13 18:00:00",
+			"temp":	20.73,
+			"temp_min":	20.73,
+			"temp_max":	20.73,
+			"humidity":	73
+		}, {
+			"dt_txt":	"2024-01-13 21:00:00",
+			"temp":	20.47,
+			"temp_min":	20.47,
+			"temp_max":	20.47,
+			"humidity":	76
+		}, {
+			"dt_txt":	"2024-01-14 00:00:00",
+			"temp":	20.28,
+			"temp_min":	20.28,
+			"temp_max":	20.28,
+			"humidity":	79
+		}, {
+			"dt_txt":	"2024-01-14 03:00:00",
+			"temp":	20.34,
+			"temp_min":	20.34,
+			"temp_max":	20.34,
+			"humidity":	78
+		}, {
+			"dt_txt":	"2024-01-14 06:00:00",
+			"temp":	22.89,
+			"temp_min":	22.89,
+			"temp_max":	22.89,
+			"humidity":	61
+		}, {
+			"dt_txt":	"2024-01-14 09:00:00",
+			"temp":	24.34,
+			"temp_min":	24.34,
+			"temp_max":	24.34,
+			"humidity":	53
+		}, {
+			"dt_txt":	"2024-01-14 12:00:00",
+			"temp":	23.3,
+			"temp_min":	23.3,
+			"temp_max":	23.3,
+			"humidity":	58
+		}, {
+			"dt_txt":	"2024-01-14 15:00:00",
+			"temp":	21.58,
+			"temp_min":	21.58,
+			"temp_max":	21.58,
+			"humidity":	73
+		}, {
+			"dt_txt":	"2024-01-14 18:00:00",
+			"temp":	21.05,
+			"temp_min":	21.05,
+			"temp_max":	21.05,
+			"humidity":	75
+		}, {
+			"dt_txt":	"2024-01-14 21:00:00",
+			"temp":	20.57,
+			"temp_min":	20.57,
+			"temp_max":	20.57,
+			"humidity":	78
+		}, {
+			"dt_txt":	"2024-01-13",
+			"average_temp":	22.154,
+			"average_humidity":	60.4,
+			"lowest_temp":	20,
+			"highest_temp":	24
+		}, {
+			"dt_txt":	"2024-01-14",
+			"average_temp":	21.79375,
+			"average_humidity":	69.375,
+			"lowest_temp":	20,
+			"highest_temp":	24
+		}, {
+			"dt_txt":	"2024-01-13 09:00:00",
+			"temp":	24.09,
+			"temp_min":	23.2,
+			"temp_max":	24.09,
+			"humidity":	46
+		}, {
+			"dt_txt":	"2024-01-13 12:00:00",
+			"temp":	23.52,
+			"temp_min":	22.38,
+			"temp_max":	23.52,
+			"humidity":	48
+		}, {
+			"dt_txt":	"2024-01-13 15:00:00",
+			"temp":	21.96,
+			"temp_min":	20.9,
+			"temp_max":	21.96,
+			"humidity":	59
+		}, {
+			"dt_txt":	"2024-01-13 18:00:00",
+			"temp":	20.73,
+			"temp_min":	20.73,
+			"temp_max":	20.73,
+			"humidity":	73
+		}, {
+			"dt_txt":	"2024-01-13 21:00:00",
+			"temp":	20.47,
+			"temp_min":	20.47,
+			"temp_max":	20.47,
+			"humidity":	76
+		}, {
+			"dt_txt":	"2024-01-14 00:00:00",
+			"temp":	20.28,
+			"temp_min":	20.28,
+			"temp_max":	20.28,
+			"humidity":	79
+		}, {
+			"dt_txt":	"2024-01-14 03:00:00",
+			"temp":	20.34,
+			"temp_min":	20.34,
+			"temp_max":	20.34,
+			"humidity":	78
+		}, {
+			"dt_txt":	"2024-01-14 06:00:00",
+			"temp":	22.89,
+			"temp_min":	22.89,
+			"temp_max":	22.89,
+			"humidity":	61
+		}, {
+			"dt_txt":	"2024-01-14 09:00:00",
+			"temp":	24.34,
+			"temp_min":	24.34,
+			"temp_max":	24.34,
+			"humidity":	53
+		}, {
+			"dt_txt":	"2024-01-14 12:00:00",
+			"temp":	23.3,
+			"temp_min":	23.3,
+			"temp_max":	23.3,
+			"humidity":	58
+		}, {
+			"dt_txt":	"2024-01-14 15:00:00",
+			"temp":	21.58,
+			"temp_min":	21.58,
+			"temp_max":	21.58,
+			"humidity":	73
+		}, {
+			"dt_txt":	"2024-01-14 18:00:00",
+			"temp":	21.05,
+			"temp_min":	21.05,
+			"temp_max":	21.05,
+			"humidity":	75
+		}, {
+			"dt_txt":	"2024-01-14 21:00:00",
+			"temp":	20.57,
+			"temp_min":	20.57,
+			"temp_max":	20.57,
+			"humidity":	78
+		}, {
+			"dt_txt":	"2024-01-13",
+			"average_temp":	22.154,
+			"average_humidity":	60.4,
+			"lowest_temp":	20,
+			"highest_temp":	24
+		}, {
+			"dt_txt":	"2024-01-14",
+			"average_temp":	21.79375,
+			"average_humidity":	69.375,
+			"lowest_temp":	20,
+			"highest_temp":	24
+		}, {
+			"dt_txt":	"2024-01-13 09:00:00",
+			"temp":	24.09,
+			"temp_min":	23.2,
+			"temp_max":	24.09,
+			"humidity":	46
+		}, {
+			"dt_txt":	"2024-01-13 12:00:00",
+			"temp":	23.52,
+			"temp_min":	22.38,
+			"temp_max":	23.52,
+			"humidity":	48
+		}, {
+			"dt_txt":	"2024-01-13 15:00:00",
+			"temp":	21.96,
+			"temp_min":	20.9,
+			"temp_max":	21.96,
+			"humidity":	59
+		}, {
+			"dt_txt":	"2024-01-13 18:00:00",
+			"temp":	20.73,
+			"temp_min":	20.73,
+			"temp_max":	20.73,
+			"humidity":	73
+		}, {
+			"dt_txt":	"2024-01-13 21:00:00",
+			"temp":	20.47,
+			"temp_min":	20.47,
+			"temp_max":	20.47,
+			"humidity":	76
+		}, {
+			"dt_txt":	"2024-01-14 00:00:00",
+			"temp":	20.28,
+			"temp_min":	20.28,
+			"temp_max":	20.28,
+			"humidity":	79
+		}, {
+			"dt_txt":	"2024-01-14 03:00:00",
+			"temp":	20.34,
+			"temp_min":	20.34,
+			"temp_max":	20.34,
+			"humidity":	78
+		}, {
+			"dt_txt":	"2024-01-14 06:00:00",
+			"temp":	22.89,
+			"temp_min":	22.89,
+			"temp_max":	22.89,
+			"humidity":	61
+		}, {
+			"dt_txt":	"2024-01-14 09:00:00",
+			"temp":	24.34,
+			"temp_min":	24.34,
+			"temp_max":	24.34,
+			"humidity":	53
+		}, {
+			"dt_txt":	"2024-01-14 12:00:00",
+			"temp":	23.3,
+			"temp_min":	23.3,
+			"temp_max":	23.3,
+			"humidity":	58
+		}, {
+			"dt_txt":	"2024-01-14 15:00:00",
+			"temp":	21.58,
+			"temp_min":	21.58,
+			"temp_max":	21.58,
+			"humidity":	73
+		}, {
+			"dt_txt":	"2024-01-14 18:00:00",
+			"temp":	21.05,
+			"temp_min":	21.05,
+			"temp_max":	21.05,
+			"humidity":	75
+		}, {
+			"dt_txt":	"2024-01-14 21:00:00",
+			"temp":	20.57,
+			"temp_min":	20.57,
+			"temp_max":	20.57,
+			"humidity":	78
+		}, {
+			"dt_txt":	"2024-01-13",
+			"average_temp":	22.154,
+			"average_humidity":	60.4,
+			"lowest_temp":	20,
+			"highest_temp":	24
+		}, {
+			"dt_txt":	"2024-01-14",
+			"average_temp":	21.79375,
+			"average_humidity":	69.375,
+			"lowest_temp":	20,
+			"highest_temp":	24
+		}, {
+			"dt_txt":	"2024-01-13 09:00:00",
+			"temp":	24.09,
+			"temp_min":	23.2,
+			"temp_max":	24.09,
+			"humidity":	46
+		}, {
+			"dt_txt":	"2024-01-13 12:00:00",
+			"temp":	23.52,
+			"temp_min":	22.38,
+			"temp_max":	23.52,
+			"humidity":	48
+		}, {
+			"dt_txt":	"2024-01-13 15:00:00",
+			"temp":	21.96,
+			"temp_min":	20.9,
+			"temp_max":	21.96,
+			"humidity":	59
+		}, {
+			"dt_txt":	"2024-01-13 18:00:00",
+			"temp":	20.73,
+			"temp_min":	20.73,
+			"temp_max":	20.73,
+			"humidity":	73
+		}, {
+			"dt_txt":	"2024-01-13 21:00:00",
+			"temp":	20.47,
+			"temp_min":	20.47,
+			"temp_max":	20.47,
+			"humidity":	76
+		}, {
+			"dt_txt":	"2024-01-14 00:00:00",
+			"temp":	20.28,
+			"temp_min":	20.28,
+			"temp_max":	20.28,
+			"humidity":	79
+		}, {
+			"dt_txt":	"2024-01-14 03:00:00",
+			"temp":	20.34,
+			"temp_min":	20.34,
+			"temp_max":	20.34,
+			"humidity":	78
+		}, {
+			"dt_txt":	"2024-01-14 06:00:00",
+			"temp":	22.89,
+			"temp_min":	22.89,
+			"temp_max":	22.89,
+			"humidity":	61
+		}, {
+			"dt_txt":	"2024-01-14 09:00:00",
+			"temp":	24.34,
+			"temp_min":	24.34,
+			"temp_max":	24.34,
+			"humidity":	53
+		}, {
+			"dt_txt":	"2024-01-14 12:00:00",
+			"temp":	23.3,
+			"temp_min":	23.3,
+			"temp_max":	23.3,
+			"humidity":	58
+		}, {
+			"dt_txt":	"2024-01-14 15:00:00",
+			"temp":	21.58,
+			"temp_min":	21.58,
+			"temp_max":	21.58,
+			"humidity":	73
+		}, {
+			"dt_txt":	"2024-01-14 18:00:00",
+			"temp":	21.05,
+			"temp_min":	21.05,
+			"temp_max":	21.05,
+			"humidity":	75
+		}, {
+			"dt_txt":	"2024-01-14 21:00:00",
+			"temp":	20.57,
+			"temp_min":	20.57,
+			"temp_max":	20.57,
+			"humidity":	78
+		}, {
+			"dt_txt":	"2024-01-13",
+			"average_temp":	22.154,
+			"average_humidity":	60.4,
+			"lowest_temp":	20,
+			"highest_temp":	24
+		}, {
+			"dt_txt":	"2024-01-14",
+			"average_temp":	21.79375,
+			"average_humidity":	69.375,
+			"lowest_temp":	20,
+			"highest_temp":	24
+		}, {
+			"dt_txt":	"2024-01-13 12:00:00",
+			"temp":	25.52,
+			"temp_min":	22.38,
+			"temp_max":	25.52,
+			"humidity":	35
+		}, {
+			"dt_txt":	"2024-01-13 15:00:00",
+			"temp":	22.96,
+			"temp_min":	20.9,
+			"temp_max":	22.96,
+			"humidity":	52
+		}, {
+			"dt_txt":	"2024-01-13 18:00:00",
+			"temp":	20.73,
+			"temp_min":	20.73,
+			"temp_max":	20.73,
+			"humidity":	73
+		}, {
+			"dt_txt":	"2024-01-13 21:00:00",
+			"temp":	20.47,
+			"temp_min":	20.47,
+			"temp_max":	20.47,
+			"humidity":	76
+		}, {
+			"dt_txt":	"2024-01-14 00:00:00",
+			"temp":	20.28,
+			"temp_min":	20.28,
+			"temp_max":	20.28,
+			"humidity":	79
+		}, {
+			"dt_txt":	"2024-01-14 03:00:00",
+			"temp":	20.34,
+			"temp_min":	20.34,
+			"temp_max":	20.34,
+			"humidity":	78
+		}, {
+			"dt_txt":	"2024-01-14 06:00:00",
+			"temp":	22.89,
+			"temp_min":	22.89,
+			"temp_max":	22.89,
+			"humidity":	61
+		}, {
+			"dt_txt":	"2024-01-14 09:00:00",
+			"temp":	24.34,
+			"temp_min":	24.34,
+			"temp_max":	24.34,
+			"humidity":	53
+		}, {
+			"dt_txt":	"2024-01-14 12:00:00",
+			"temp":	23.3,
+			"temp_min":	23.3,
+			"temp_max":	23.3,
+			"humidity":	58
+		}, {
+			"dt_txt":	"2024-01-14 15:00:00",
+			"temp":	21.58,
+			"temp_min":	21.58,
+			"temp_max":	21.58,
+			"humidity":	73
+		}, {
+			"dt_txt":	"2024-01-14 18:00:00",
+			"temp":	21.05,
+			"temp_min":	21.05,
+			"temp_max":	21.05,
+			"humidity":	75
+		}, {
+			"dt_txt":	"2024-01-14 21:00:00",
+			"temp":	20.57,
+			"temp_min":	20.57,
+			"temp_max":	20.57,
+			"humidity":	78
+		}, {
+			"dt_txt":	"2024-01-13",
+			"average_temp":	22.42,
+			"average_humidity":	59,
+			"lowest_temp":	20,
+			"highest_temp":	25
+		}, {
+			"dt_txt":	"2024-01-14",
+			"average_temp":	21.79375,
+			"average_humidity":	69.375,
+			"lowest_temp":	20,
+			"highest_temp":	24
+		}, {
+			"dt_txt":	"2024-01-13 15:00:00",
+			"temp":	23.09,
+			"temp_min":	20.91,
+			"temp_max":	23.09,
+			"humidity":	53
+		}, {
+			"dt_txt":	"2024-01-13 18:00:00",
+			"temp":	22.31,
+			"temp_min":	20.75,
+			"temp_max":	22.31,
+			"humidity":	61
+		}, {
+			"dt_txt":	"2024-01-13 21:00:00",
+			"temp":	21.38,
+			"temp_min":	20.53,
+			"temp_max":	21.38,
+			"humidity":	70
+		}, {
+			"dt_txt":	"2024-01-14 00:00:00",
+			"temp":	20.25,
+			"temp_min":	20.25,
+			"temp_max":	20.25,
+			"humidity":	79
+		}, {
+			"dt_txt":	"2024-01-14 03:00:00",
+			"temp":	20.43,
+			"temp_min":	20.43,
+			"temp_max":	20.43,
+			"humidity":	78
+		}, {
+			"dt_txt":	"2024-01-14 06:00:00",
+			"temp":	22.89,
+			"temp_min":	22.89,
+			"temp_max":	22.89,
+			"humidity":	64
+		}, {
+			"dt_txt":	"2024-01-14 09:00:00",
+			"temp":	24.36,
+			"temp_min":	24.36,
+			"temp_max":	24.36,
+			"humidity":	56
+		}, {
+			"dt_txt":	"2024-01-14 12:00:00",
+			"temp":	23.35,
+			"temp_min":	23.35,
+			"temp_max":	23.35,
+			"humidity":	58
+		}, {
+			"dt_txt":	"2024-01-14 15:00:00",
+			"temp":	21.57,
+			"temp_min":	21.57,
+			"temp_max":	21.57,
+			"humidity":	73
+		}, {
+			"dt_txt":	"2024-01-14 18:00:00",
+			"temp":	21.06,
+			"temp_min":	21.06,
+			"temp_max":	21.06,
+			"humidity":	77
+		}, {
+			"dt_txt":	"2024-01-14 21:00:00",
+			"temp":	20.44,
+			"temp_min":	20.44,
+			"temp_max":	20.44,
+			"humidity":	78
+		}, {
+			"dt_txt":	"2024-01-13",
+			"average_temp":	22.26,
+			"average_humidity":	61.333333333333336,
+			"lowest_temp":	20,
+			"highest_temp":	23
+		}, {
+			"dt_txt":	"2024-01-14",
+			"average_temp":	21.79375,
+			"average_humidity":	70.375,
+			"lowest_temp":	20,
+			"highest_temp":	24
+		}, {
+			"dt_txt":	"2024-01-13 15:00:00",
+			"temp":	23.09,
+			"temp_min":	20.91,
+			"temp_max":	23.09,
+			"humidity":	53
+		}, {
+			"dt_txt":	"2024-01-13 18:00:00",
+			"temp":	22.31,
+			"temp_min":	20.75,
+			"temp_max":	22.31,
+			"humidity":	61
+		}, {
+			"dt_txt":	"2024-01-13 21:00:00",
+			"temp":	21.38,
+			"temp_min":	20.53,
+			"temp_max":	21.38,
+			"humidity":	70
+		}, {
+			"dt_txt":	"2024-01-14 00:00:00",
+			"temp":	20.25,
+			"temp_min":	20.25,
+			"temp_max":	20.25,
+			"humidity":	79
+		}, {
+			"dt_txt":	"2024-01-14 03:00:00",
+			"temp":	20.43,
+			"temp_min":	20.43,
+			"temp_max":	20.43,
+			"humidity":	78
+		}, {
+			"dt_txt":	"2024-01-14 06:00:00",
+			"temp":	22.89,
+			"temp_min":	22.89,
+			"temp_max":	22.89,
+			"humidity":	64
+		}, {
+			"dt_txt":	"2024-01-14 09:00:00",
+			"temp":	24.36,
+			"temp_min":	24.36,
+			"temp_max":	24.36,
+			"humidity":	56
+		}, {
+			"dt_txt":	"2024-01-14 12:00:00",
+			"temp":	23.35,
+			"temp_min":	23.35,
+			"temp_max":	23.35,
+			"humidity":	58
+		}, {
+			"dt_txt":	"2024-01-14 15:00:00",
+			"temp":	21.57,
+			"temp_min":	21.57,
+			"temp_max":	21.57,
+			"humidity":	73
+		}, {
+			"dt_txt":	"2024-01-14 18:00:00",
+			"temp":	21.06,
+			"temp_min":	21.06,
+			"temp_max":	21.06,
+			"humidity":	77
+		}, {
+			"dt_txt":	"2024-01-14 21:00:00",
+			"temp":	20.44,
+			"temp_min":	20.44,
+			"temp_max":	20.44,
+			"humidity":	78
+		}, {
+			"dt_txt":	"2024-01-13",
+			"average_temp":	22.26,
+			"average_humidity":	61.333333333333336,
+			"lowest_temp":	20,
+			"highest_temp":	23
+		}, {
+			"dt_txt":	"2024-01-14",
+			"average_temp":	21.79375,
+			"average_humidity":	70.375,
+			"lowest_temp":	20,
+			"highest_temp":	24
+		}]
+}
